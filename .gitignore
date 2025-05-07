@@ -1,0 +1,2 @@
+# Ignorar o arquivo .env para não ser enviado ao GIT
+.env
